@@ -1,5 +1,5 @@
 ## Development
-- Precondition: 
+- Precondition:  
     node version must be greater than v16  
     cypress must be installed `npm install cypress@12.5 --save-dev`
 - Project uses NPM as package manager, to install dependencies run `npm install`
