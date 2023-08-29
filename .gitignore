@@ -1,0 +1,7 @@
+.git
+node_modules
+cypress/videos
+package-lock.json
+cypress/screenshots
+debug.log
+.idea

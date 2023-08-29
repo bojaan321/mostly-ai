@@ -1,0 +1,10 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "businessMail": "business@mostlyAi.com",
+  "phoneNumber": "+39965123213",
+  "organizationName": "mostlyAi",
+  "country": "Serbia",
+  "aboutMostly": "Through Forums",
+  "message": "Testing message field."
+}
